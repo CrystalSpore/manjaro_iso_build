@@ -31,7 +31,7 @@ jobs:
     strategy:
       matrix:
         ##### EDIT ME #####      
-        EDITION: [cinnamon, gnome, kde]
+        EDITION: [cinnamon, gnome]
         BRANCH: [stable]
         SCOPE: [full]
         ###################
